@@ -1,5 +1,8 @@
 # Olá, eu sou Calebe Oliveira 🚀
 
+## Sobre mim
+Entusiasta de desenvolvimento Web, Mobile e apaixonado por Tecnologia 👨🏻‍💻
+
 ## Tecnologias
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
