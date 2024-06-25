@@ -18,8 +18,9 @@ Entusiasta de desenvolvimento Web, Mobile e apaixonado por Tecnologia 👨🏻�
 Meus projetos favoritos:
 
 - [Snake](https://github.com/cal-oliveira/snake-game-React-Native): Clássico jogo da cobrinha (snake) com React Native.
+- [Gerenciador de participantes](https://github.com/cal-oliveira/NLW-UNITE---REACT): Painel com todos os participantes de um determinado evento, desenvolvido com React.
 - [PokeNext](https://github.com/cal-oliveira/pokenext): Pokedex desenvolvido com NextJs.
-- [Gerenciador de participantes](https://github.com/cal-oliveira/NLW-UNITE---REACT): Painel com todos os participantes de um determinado evento.
+
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/calebe-oliveira-615948258/)
